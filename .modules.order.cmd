@@ -1,1 +1,0 @@
-cmd_/home/lww/project/12_FPGA/pzk_driver/src/modules.order := {   echo /home/lww/project/12_FPGA/pzk_driver/src/eon.ko; :; } | awk '!x[$$0]++' - > /home/lww/project/12_FPGA/pzk_driver/src/modules.order
