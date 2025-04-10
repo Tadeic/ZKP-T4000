@@ -1,0 +1,1 @@
+cmd_/home/lww/project/12_FPGA/pzk_driver/src/eon.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/lww/project/12_FPGA/pzk_driver/src/eon.ko /home/lww/project/12_FPGA/pzk_driver/src/eon.o /home/lww/project/12_FPGA/pzk_driver/src/eon.mod.o;  true
